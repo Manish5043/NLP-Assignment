@@ -1,6 +1,8 @@
 # NLP-Assignment
 HOW NLP is used for text to speech conversion and vice-versa
-Assignment-1 =>
+
+
+ASSIGNEMNET-1 =>
 nltk.download('punkt') and nltk.download('averaged_perceptron_tagger'): Downloads the necessary datasets for tokenization and POS tagging.
 nltk.word_tokenize(sentence): Tokenizes the input sentence into individual words.
 nltk.pos_tag(words): Tags each word in the list with its corresponding part of speech.
